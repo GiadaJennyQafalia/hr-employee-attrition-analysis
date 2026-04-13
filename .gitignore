@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset grande (se supera 100MB)
+data/raw/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
